@@ -23,8 +23,8 @@
 > app to manage server-side of application running on both `Ruby-on-Rails` and `React`.
 > The app display a ramdom message from the server using `React` component
 
-- `Hello React Frontend` PR Link: [Frontend App PR](https://github.com/PraisesPJMT/Hello-React-Frontend/pull/3)
-- `Hello React Frontend` APP Link: [Frontend App Link](https://github.com/PraisesPJMT/Hello-React-Frontend)
+- `Hello React Frontend` PR Link: [Frontend App PR](https://github.com/Christabelle143/Hello-React-Frontend/pull/1)
+- `Hello React Frontend` APP Link: [Frontend App Link](https://github.com/Christabelle143/Hello-React-Frontend)
 
 ## 🛠 Built With <a name="built-with"></a>
 
